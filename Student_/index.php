@@ -83,6 +83,9 @@ session_start();
 							<p class="card-text">
 								Make your time productive during leisure hours.
 							</p>
+							<p class="card-text">
+								Open library here.
+							</p>
 							<a href="magazines.php" class="btn btn-primary">Read More</a>
 						</div>
 					</div>

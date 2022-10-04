@@ -26,6 +26,9 @@ $row = mysqli_fetch_assoc($q);
 				<td><?php echo $row['last'] ?></td>
 			</tr>
 			<tr>
+				<th scope="row">Roll Number</th>
+				<td><?php echo $row['roll number'] ?></td>
+			<tr>
 				<th scope="row">Username</th>
 				<td><?php echo $row['username'] ?></td>
 			</tr>

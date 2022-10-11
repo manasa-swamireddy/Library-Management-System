@@ -51,6 +51,7 @@ session_start();
 							<h3 class="card-title mb-3">E-books</h3>
 							<p class="card-text">
 								Searching for a book? 
+								Find header_register_callback.
 							</p>
 							<a href="books.php" class="btn btn-primary">Read More</a>
 						</div>

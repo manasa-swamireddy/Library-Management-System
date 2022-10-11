@@ -8,7 +8,7 @@
 			<a href=""><i class="bi bi-facebook text-popup mx-1"></i></a>
 			<a href=""><i class="bi bi-linkedin text-popup mx-1"></i></a>
 			<a href=""><i class="bi bi-instagram text-popup mx-1"></i></a>
-			<p class="lead" style="opacity: 0.3;">Copyright &copy; E-Library 2021</p>
+			<p class="lead" style="opacity: 0.3;">Copyright &copy; Library Management Suytem 2022</p>
 			<a href="#" class="position-absolute bottom-0 end-0 p-5"><i class="bi bi-arrow-up-circle h1"></i></a>
 		</div>
 	</footer>

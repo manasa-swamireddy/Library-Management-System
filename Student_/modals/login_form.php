@@ -26,6 +26,12 @@
                         Forgot your password?
                     </a>
                 </div>
+                <div class="flex items-center justify-between">
+                <div class="text-sm">
+                    <a href="update_password.php" class="font-medium text-indigo-600 hover:text-indigo-500">
+                        Edit username
+                    </a>
+                </div>
                 <div class="text-sm">
                     <a href="registration.php" class="font-medium text-indigo-600 hover:text-indigo-500">
                         Create new account!
